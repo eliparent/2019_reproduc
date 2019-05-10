@@ -105,10 +105,11 @@ autoplot(Emission_fc)
 checkresiduals(Emission_model)
 ``` 
 **Commenter le modèle**
-*Fiabilité: Il est peu probable que les résidus aient été générés par un bruit 
-blanc puisque la p-valeur est sous le seuil 0.05. Donc, le modèle semble fiable.*
 
-Amélioration: Les prédicitons montrent une large étendue de possibilités de prédictions.
+Fiabilité: Il est peu probable que les résidus aient été générés par un bruit 
+blanc puisque la p-valeur est sous le seuil 0.05. Donc, le modèle semble fiable.
+
+Amélioration: Les prédictions montrent une large étendue de possibilités de prédictions.
 Il pourrait y avoir un prétraitement des données avec transformation 
 logarithmique, mais ça ne devrait pas tant changer le modèle de prédiction.
 En fait, des covariables pourraient apporter des informations au modèle pour
