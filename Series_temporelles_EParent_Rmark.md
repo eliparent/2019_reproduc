@@ -3,6 +3,7 @@ Reproductibilité d'un dossier RMark
 Elizabeth Parent
 10 mai 2019
 
+#Présentation du devoir
 
 **Téléchargement des librairies**
 ``` {r}
@@ -116,3 +117,5 @@ En fait, des covariables pourraient apporter des informations au modèle pour
 l'améliorer. Par exemple, la température, les activités volcaniques ou la
 densité de population.
 
+#lien github
+https://github.com/eliparent/2019_reproduc/blob/master/Series_temporelles_EParent_Rmark.md
